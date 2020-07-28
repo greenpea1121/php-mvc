@@ -19,14 +19,9 @@
 		<header>
 			<div class="container">
 				<h1>後台管理系統</h1>
-
-			   <!-- <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+				<nav class="navbar navbar-expand-sm bg-dark">
 					<ul class="navbar-nav">
-						<li class="nav-item active">-->
-		       
-		       <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  					<ul class="navbar-nav">
-   				 		<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link text-white" href="employees/employees.php">員工管理系統</a>
 						</li>
 						<li class="nav-item">

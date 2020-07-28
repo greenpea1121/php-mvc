@@ -7,26 +7,19 @@
 <head>
 	<meta charset="UTF-8">
 	<title>我的網站</title>
-
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-	
 </head>
 <body>
 	<div>
 		<header>
 			<div class="container">
 				<h1>後台管理系統</h1>
-
-			   <!-- <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+				<nav class="navbar navbar-expand-sm bg-dark">
 					<ul class="navbar-nav">
-						<li class="nav-item active">-->
-		       
-		       <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  					<ul class="navbar-nav">
-   				 		<li class="nav-item active">
+						<li class="nav-item">
 							<a class="nav-link text-white" href="employees/employees.php">員工管理系統</a>
 						</li>
 						<li class="nav-item">
@@ -46,6 +39,5 @@
 			</div>
 		</header>
 	</div>
-	
 </body>
 </html>
